@@ -13,7 +13,7 @@ export default function Footer() {
       </View>
       <View style={[styles.iconContainer, { marginBottom: '1.5%', marginLeft: '-4%' }]}>
         <Image source={Icons.heart.light} style={[styles.icon, styles.matchesIcon]} />
-        <Text style={styles.navigationText}>Matches</Text>
+        <Text style={styles.navigationText}>Herats</Text>
       </View>
       <View style={styles.iconContainer}>
         <Image source={Icons.messages.light} style={[styles.icon, styles.messagesIcon]} />
